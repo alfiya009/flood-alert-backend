@@ -32,4 +32,4 @@ app.get('/api/health', (req, res) => {
 
 // ✅ Export the app for Vercel
 module.exports = app;
-
+console.log("Backend working")
